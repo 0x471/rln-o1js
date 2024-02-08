@@ -1,10 +1,6 @@
-# Protokit starter-kit
-
-This repository is a monorepo aimed at kickstarting application chain development using the Protokit framework.
-
 ## Quick start
 
-The monorepo contains 1 package and 1 app:
+The MRLN monorepo contains 1 package and 1 app:
 
 - `packages/chain` contains everything related to your app-chain
 - `apps/web` contains a demo UI that connects to your locally hosted app-chain sequencer
@@ -24,8 +20,7 @@ The monorepo contains 1 package and 1 app:
 ### Setup
 
 ```zsh
-git clone https://github.com/proto-kit/starter-kit my-chain
-cd my-chain
+git clone https://github.com/0x471/o1js-mrln
 
 # ensures you have the right node.js version
 nvm use
